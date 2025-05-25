@@ -10,3 +10,5 @@ dependencies:
   - numpy=1.26.4
   - pandas=2.1.4
   - control=0.10.0
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/elzadiab/dm4bem/main?filepath=notebook/Regime_Static (5).ipynb)
