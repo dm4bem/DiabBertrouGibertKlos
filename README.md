@@ -1,6 +1,6 @@
 # Application of _dm4bem_: model house of Elza, Clement, Aymeric and Rose
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dm4bem/DiabBertrouGibertKlos/main?filepath=Code.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/dm4bem/DiabBertrouGibertKlos/blob/main/Code.ipynb)
 
 Short presentation of modeling described in section _Pyhton script_ of [Inputs and simulation](https://cghiaus.github.io/dm4bem_book/tutorials/pd05simulation.html) chapter of Jupyter book on [Dynamic Models for Building Energy Management](https://cghiaus.github.io/dm4bem_book/intro.html).
 
